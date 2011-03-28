@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RTAActivity!</string>
+    <string name="app_name">Read Them All</string>
+<string name="share">Share, RTAShareActivity!</string>
+<string name="SubmitButtonShare">Envoyer</string>
+<string name="TextTitleSubjectShare">Titre</string>
+<string name="TextTitleLinkShare">Lien</string>
+<string name="AddALinkButtonMain">Ajouter un lien</string>
+</resources>

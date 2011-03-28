@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/hello"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:text="@string/TextTitleSubjectShare" 
+    />
+<EditText 
+	android:text="@+id/EditSubject" 
+	android:id="@+id/EditSubject" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content" />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+	android:text="@string/TextTitleLinkShare" 
+    />
+<EditText 
+	android:id="@+id/EditLink" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content" />
+<Button 
+	android:text="@string/SubmitButtonShare" 
+	android:id="@+id/SaveALinkButtonShare" 
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content" />
+</LinearLayout>
